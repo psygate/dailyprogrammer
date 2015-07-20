@@ -1,1 +1,7 @@
 *.pyc
+*.exe
+*.obj
+trace.def
+trace.log
+bin/
+obj/
